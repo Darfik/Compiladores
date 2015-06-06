@@ -8,7 +8,7 @@ package com.language.parser;
 
 /** CUP generated interface containing symbol constants. */
 public interface sym {
-  /* terminals de mierda*/
+  /* terminals de mierda pero enserio*/
   public static final int MINUS = 3;
   public static final int DECIMAL = 10;
   public static final int INTEGRAL = 9;
